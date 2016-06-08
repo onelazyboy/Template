@@ -1,0 +1,53 @@
+
+<!--
+Automatically created by Apache Tomcat JspC.
+Place this fragment in the web.xml before all icon, display-name,
+description, distributable, and context-param elements.
+-->
+    <servlet>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genCodeForm_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.webpage.modules.gen.genCodeForm_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genCodeForm_jsp</servlet-name>
+        <url-pattern>/webpage/modules/gen/genCodeForm.jsp</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genTableForm_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.webpage.modules.gen.genTableForm_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genTableForm_jsp</servlet-name>
+        <url-pattern>/webpage/modules/gen/genTableForm.jsp</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genTableList_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.webpage.modules.gen.genTableList_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genTableList_jsp</servlet-name>
+        <url-pattern>/webpage/modules/gen/genTableList.jsp</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.importTableFromDB_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.webpage.modules.gen.importTableFromDB_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.importTableFromDB_jsp</servlet-name>
+        <url-pattern>/webpage/modules/gen/importTableFromDB.jsp</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genMenuForm_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.webpage.modules.gen.genMenuForm_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.webpage.modules.gen.genMenuForm_jsp</servlet-name>
+        <url-pattern>/webpage/modules/gen/genMenuForm.jsp</url-pattern>
+    </servlet-mapping>
